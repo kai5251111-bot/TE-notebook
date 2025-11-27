@@ -1,0 +1,6 @@
+#Procedure: <__main__.Keithley2410_TwoStepSweep>
+#Parameters:
+#	Compliance Current (A): 0.00025
+#	Source Delay (s): 0.1
+#Data:
+Set_V,Meas_V,Meas_I
